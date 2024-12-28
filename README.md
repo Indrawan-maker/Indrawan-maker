@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'ts me Indra</h1>
+<h1 align="center">Hello 👋, i'ts me Indra</h1>
 <h3 align="center">A passionate fullstack development from Samarinda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indrawan-maker&label=Profile%20views&color=0e75b6&style=flat" alt="indrawan-maker" /> </p>
