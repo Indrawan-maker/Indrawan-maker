@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, is me Indrawan</h1>
+<h1 align="center">Hello 👋, it's me Indrawan</h1>
 <h3 align="center">A passionate fullstack development from Samarinda</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indrawan-maker" alt="indrawan-maker" /></a> </p>
