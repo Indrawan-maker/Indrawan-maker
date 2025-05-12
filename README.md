@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indrawan-maker" alt="indrawan-maker" /></a> </p>
 
-- 🔭 I’m currently working on **web anime**
 
 - 🌱 I’m currently learning **react, nextjs, mySql, and API**
 
