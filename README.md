@@ -1,11 +1,3 @@
-<h1 align="center">Hello 👋, it's me Indrawan</h1>
-<h3 align="center">A junior fullstack development from Samarinda</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indrawan-maker" alt="indrawan-maker" /></a> </p>
-
-- 🌱 I’m currently learning **react, nextjs, mySql, and API**
-
-- 📫 How to reach me **indrawanismail0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,16 +50,4 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indrawan-maker&show_icons=true&locale=en&layout=compact" alt="indrawan-maker" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=indrawan-maker&show_icons=true&locale=en" alt="indrawan-maker" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrawan-maker&" alt="indrawan-maker" />
 </p>
