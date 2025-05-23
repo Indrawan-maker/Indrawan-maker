@@ -44,4 +44,3 @@
   </a>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=indra&locale=id&dates=000000&hide_total_contributions=true" alt="GitHub Streak" /></a>
