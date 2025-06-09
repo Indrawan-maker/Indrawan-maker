@@ -2,6 +2,7 @@
   <tr>
     <td><img src="rambutPink.jpg" alt="anime" width="200" /></td>
     <td><img src="yatoraa.gif" alt="anime" height="200" /></td>
+    <td><img src="rambutPink.jpg" alt="anime" width="200" /></td>
   </tr>
 </table>
 
