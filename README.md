@@ -1,4 +1,6 @@
-<img src="rambutPink.jpg" alt="anime" width="100%" />
+<img src="rambutPink.jpg" alt="anime" width="200" />
+<img src="yatoraa.gif" alt="anime" height="200" />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
