@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <td><img src="rambutPink.jpg" alt="anime" width="200" /></td>
-    <td><img src="yatoraa.gif" alt="anime" height="200" /></td>
-    <td><img src="rambutPink.jpg" alt="anime" width="200" /></td>
+    <td><img src="rambutPink.jpg" alt="anime" width="200" max-width="100%"/></td>
+    <td><img src="yatoraa.gif" alt="anime" height="200" max-width="100%"/><//></td>
+    <td><img src="rambutPink.jpg" alt="anime" width="200" max-width="100%"/><//></td>
   </tr>
 </table>
 
