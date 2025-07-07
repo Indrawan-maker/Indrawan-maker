@@ -7,7 +7,7 @@
 </table>
 
 <h3>About Me</h3>
-<p>Haloo, Saya Muhammad Indrawan Ismail mahasiswa semester 3 Sistem Informasi di Universitas Sultan Aji Muhammad Idris Samarinda. Saya suka main game, terutama Mobile Legends dan Genshin Impact. Tapi sekarang HP saya yang sudah6 tahun belum ganti dan laptop Ryzen 5 saya nggak kuat lagi untuk main game yang saya biasa main.
+<p>Haloo, Saya Muhammad Indrawan Ismail mahasiswa semester 3 Sistem Informasi di Universitas Sultan Aji Muhammad Idris Samarinda. Saya suka main game, terutama Mobile Legends dan Genshin Impact. Tapi sekarang HP saya yang sudah 6 tahun belum ganti, dan laptop Ryzen 5 saya nggak kuat lagi untuk main game yang saya biasa main.
 
 Sekarang, saya lebih banyak mengahbiskan waktu dengan ngoding. dan bingung menghabiskan waktu liburan jadi saya ngoding. Coding jadi game baru, menantang dan bikin penasaran. Saya juga nggak jago joget (apalagi dj), nggak terlalu jago ngomong, tapi lumayan jago pakai crayon. Fokus utama saya sekarang adalah meningkatkan skill programming saya sebaik mungkin. </p>
 <picture>
