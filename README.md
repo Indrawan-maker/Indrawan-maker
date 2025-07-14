@@ -13,14 +13,3 @@ I’ve been spending most of my time coding. Honestly, I didn’t really know wh
 
 I can’t dance (definitely not DJ either), and I’m not that good at speaking, but I’m pretty good with crayons. My main focus right now is to level up my programming skills as much as possible, but I know it’s a gradual process, and I’m improving little by little </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Indrawan-maker/Indrawan-maker/refs/heads/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Indrawan-maker/Indrawan-maker/refs/heads/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Indrawan-maker/Indrawan-maker/output/github-snake.svg" />
-</picture>
-<h3 align="left">Languages and Tools:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indrawan-maker&show_icons=true&locale=en&layout=compact" alt="indrawan-maker" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indrawan-maker&show_icons=true&locale=en" alt="indrawan-maker" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrawan-maker&" alt="indrawan-maker" /></p>
