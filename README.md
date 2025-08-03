@@ -11,5 +11,8 @@
 
 I’ve been spending most of my time coding. Honestly, I didn’t really know what to do during my holidays, so I just ended up coding. For me, coding feels like a new game  it’s challenging and makes me curious to keep learning. I like do the hard things until the easy one felt boring.
 
-I can’t dance (definitely not DJ either), and I’m not that good at speaking, but I’m pretty good with crayons. My main focus right now is to level up my programming skills as much as possible, but I know it’s a gradual process, and I’m improving little by little </p>
+I can’t dance (definitely not DJ either), and I’m not that good at speaking, but I’m pretty good with crayons. 
+
+"when action grows unprofitable, gather information, when information grows unprofitable, sleep".
+</p>
 <picture>
