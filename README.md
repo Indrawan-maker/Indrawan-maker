@@ -12,6 +12,8 @@
 I’ve been spending most of my time coding. Honestly, I didn’t really know what to do during my holidays, so I just ended up coding. For me, coding feels like a new game  it’s challenging and makes me curious to keep learning. I like do the hard things until the easy one felt boring.
 
 I can’t dance (definitely not DJ either), and I’m not that good at speaking, but I’m pretty good with crayons. 
+
+
 "sometimes talk to myself i want to quit, but next day i code like nothing happens"
 
 "when action grows unprofitable, gather information, when information grows unprofitable, sleep".
