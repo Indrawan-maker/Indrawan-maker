@@ -13,9 +13,6 @@ I’ve been spending most of my time coding. Honestly, I didn’t really know wh
 
 I can’t dance (definitely not DJ either), and I’m not that good at speaking, but I’m pretty good with crayons. 
 
-
-"sometimes talk to myself i want to quit, but next day i code like nothing happens"
-
 "when action grows unprofitable, gather information, when information grows unprofitable, sleep".
 </p>
 <picture>
