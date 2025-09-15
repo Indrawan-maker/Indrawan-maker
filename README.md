@@ -13,6 +13,8 @@ I’ve been spending most of my time coding. Honestly, I didn’t really know wh
 
 I can’t dance (definitely not DJ either), and I’m not that good at speaking, but I’m pretty good with crayons. 
 
-"when action grows unprofitable, gather information, when information grows unprofitable, sleep".
+"So much complexity in software comes from trying to make one thing do two things."
+
+-Ryan Singer
 </p>
 <picture>
