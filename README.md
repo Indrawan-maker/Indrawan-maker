@@ -11,6 +11,8 @@
 
 I’ve been spending most of my time coding. Honestly, I didn’t really know what to do during my holidays, so I just ended up coding. For me, coding feels like a new game  it’s challenging and makes me curious to keep learning. I like do the hard things until the easy one felt boring.
 
+you can imagine what i looks like, a 19 yo guy, in rent room, code without shirt on, smoking and drink caffeine everyday(kopi kapal api) sometimes its energy drinks(extrajoss kaleng), listening to david goggins motivation etc., and code whatever i like (i take the course on scrimba - the fullstack developer path, that help me a lot).
+
 I can’t dance (definitely not DJ either), and I’m not that good at speaking, but I’m pretty good with crayons. 
 
 "So much complexity in software comes from trying to make one thing do two things."
