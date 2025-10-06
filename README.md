@@ -22,6 +22,6 @@ I can’t dance (definitely not DJ either), and I’m not that good at speaking,
 
 <p>once senior software engineer told me: <br>
   "Don't start with an idea. Start with a problem. Ideally yours."</p>
-  <p>"but what if don't have problem ?"</p>
+  <p>"but what if i don't have problem ?"</p>
   <p>then solve others who need it</p>
 <picture>
