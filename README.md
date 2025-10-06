@@ -19,4 +19,8 @@ I can’t dance (definitely not DJ either), and I’m not that good at speaking,
 
 -Ryan Singer
 </p>
+
+<p><br>"Don't start with an idea. <br>
+Start with a problem. <br>
+Ideally yours."</p>
 <picture>
