@@ -20,6 +20,6 @@ I can’t dance (definitely not DJ either), and I’m not that good at speaking,
 </p>
 
 
-<img src="https://i.redd.it/lrfg0sznsfse1.png"/>
+<img src="https://i.redd.it/lrfg0sznsfse1.png" width="200" max-width="100%"/>
 
 <picture>
