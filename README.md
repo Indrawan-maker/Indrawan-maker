@@ -6,6 +6,7 @@
   </tr>
 </table>
 
+
 <h3>About Me</h3>
 <p>Hey there, I’m Muhammad Indrawan Ismail, a 3rd-semester Information Systems student at Sultan Aji Muhammad Idris University Samarinda. I love gaming, especially Mobile Legends and Genshin Impact. But right now, my phone is already six years old and I haven’t replaced it yet, and my Ryzen 5 laptop isn’t strong enough to run the games I usually play.
 
@@ -18,5 +19,7 @@ I can’t dance (definitely not DJ either), and I’m not that good at speaking,
 -Ryan Singer
 </p>
 
+
+<img src="https://i.redd.it/lrfg0sznsfse1.png"/>
 
 <picture>
