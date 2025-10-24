@@ -20,7 +20,7 @@ I can’t dance (definitely not DJ either), and I’m not that good at speaking,
 -Ryan Singer
 </p>
 
-<div style="display: flex;">
+<div style="display: flex; gap:8px;">
 <img src="https://i.redd.it/lrfg0sznsfse1.png" width="200" max-width="100%"/>
 <img alt="{60B20AB3-D69C-4599-836B-E35F1800B472}" src="https://github.com/user-attachments/assets/bd68dd8a-1352-4879-96d4-79e086b4d3a4" width="200" max-width="100%"/>
 </div>
