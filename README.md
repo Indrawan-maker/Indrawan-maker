@@ -27,4 +27,6 @@ I can’t dance (definitely not DJ either), and I’m not that good at speaking,
 
 <p>"stubborn on the vision"</p>
 
+<p>to build product build something people want, to make art make something "you" want</p>
+
 <picture>
