@@ -30,9 +30,7 @@ I can’t dance (definitely not DJ either), and I’m not that good at speaking,
 <p>to build product build something people want, to make art make something "you" want</p>
 
 <p>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3143bx2eo3eatzjzcby5bum5yfeu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3143bx2eo3eatzjzcby5bum5yfeu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false">
-  </a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3143bx2eo3eatzjzcby5bum5yfeu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 </p>
 
 <picture>
