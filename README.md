@@ -29,8 +29,6 @@ I can’t dance (definitely not DJ either), and I’m not that good at speaking,
 
 <p>to build product build something people want, to make art make something "you" want</p>
 
-<p>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3143bx2eo3eatzjzcby5bum5yfeu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
-</p>
+<p>don't wanna ended up like very succesfull yogurt shop, when you fishing you can catch a big fish, or you can can catch a small one</p>
 
 <picture>
