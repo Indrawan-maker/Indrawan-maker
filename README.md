@@ -6,6 +6,7 @@
   </tr>
 </table>
 
+
 <br>
 <h1>a good painter will not just paint.</h1>
 <h3>About Me</h3>
@@ -32,3 +33,4 @@ I can’t dance (definitely not DJ either), and I’m not that good at speaking,
 <p>don't wanna ended up like very succesfull yogurt shop, when you go fishing you can catch a big fish, or you can can catch a small one</p>
 
 <picture>
+Built by [Muhammad Indrawan](https://indrawan-id.vercel.app) - Fullstack Web Developer
