@@ -22,7 +22,7 @@ I can’t dance (definitely not DJ either), and I’m not that good at speaking,
 </p>
 
 <p align="center">
-  <img src="https://moe-counter.glitch.me/get/@Indrawan-maker" alt="Profile counter"/>
+  <img src="https://count.getloli.com/@Indrawan-maker?name=Indrawan-maker&theme=original-old&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile counter"/>
 </p>
 
 Built by [Muhammad Indrawan](https://indrawan-id.vercel.app) - Fullstack Web Developer
