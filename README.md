@@ -21,6 +21,8 @@ I can’t dance (definitely not DJ either), and I’m not that good at speaking,
 -Ryan Singer
 </p>
 
+<h2 align="center">profile visitors</h2>
+
 <p align="center">
   <img src="https://count.getloli.com/@Indrawan-maker?name=Indrawan-maker&theme=original-old&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile counter"/>
 </p>
