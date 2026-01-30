@@ -8,7 +8,7 @@
 
 
 <br>
-<h1>a good painter will not just paint.</h1>
+<h1>first ur weird then you're the blueprint.</h1>
 <h3>About Me</h3>
 <p>Hey there, I’m Muhammad Indrawan Ismail, a 3rd-semester Information Systems student at Sultan Aji Muhammad Idris University Samarinda. I love gaming, especially Mobile Legends and Genshin Impact. But right now, my phone is already six years old and I haven’t replaced it yet, and my Ryzen 5 laptop isn’t strong enough to run the games I usually play.
 
