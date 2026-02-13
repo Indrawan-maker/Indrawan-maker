@@ -8,7 +8,7 @@
 
 
 <br>
-<h1>WENGDEV</h1>
+<h1>IF YOU AFRAID OF FAILING, YOU WON'T GET VERY FAR</h1>
 <h3>About Me</h3>
 <p>Hey there, I’m Muhammad Indrawan Ismail, a 4th-semester Information Systems student at Sultan Aji Muhammad Idris University Samarinda. I love gaming, especially Mobile Legends and Genshin Impact. But right now, my phone is already six years old and I haven’t replaced it yet, and my Ryzen 5 laptop isn’t strong enough to run the games I usually play.
 
