@@ -8,7 +8,7 @@
 
 
 <br>
-<h1>SUPERMAN WEB</h1>
+<h1>stay hard</h1>
 <h3>About Me</h3>
 <p>Hey there, I’m Muhammad Indrawan Ismail, a 4th-semester Information Systems student at Sultan Aji Muhammad Idris University Samarinda. I', a fullstack developer but mostly work on backend.
 
