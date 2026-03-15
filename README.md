@@ -8,7 +8,7 @@
 
 
 <br>
-<h1>stay hard</h1>
+<h1>eat the frog</h1>
 <h3>About Me</h3>
 <p>Hey there, I’m Muhammad Indrawan Ismail, a 4th-semester Information Systems student at Sultan Aji Muhammad Idris University Samarinda. I'm, a fullstack web developer but mostly work in backend.
 
