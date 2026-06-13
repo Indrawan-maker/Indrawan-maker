@@ -10,7 +10,7 @@
 <br>
 <h1>a good painter will not just paint</h1>
 <h3>About Me</h3>
-<p>Hey there, I’m Muhammad Indrawan Ismail, a 4th-semester Information Systems student at Sultan Aji Muhammad Idris University Samarinda. I'm, a fullstack web developer but mostly work in frontend.
+<p>Hey there, I’m Muhammad Indrawan Ismail, a 4th-semester Information Systems student at Sultan Aji Muhammad Idris University Samarinda. I'm, a fullstack web developer but mostly work in backend.
 
 I’ve been spending most of my time coding. Honestly, I didn’t really know what to do during my holidays, so I just ended up coding. For me, coding feels like a new game  it’s challenging and makes me curious to keep learning. I like do the hard things until the easy one felt boring.
 
