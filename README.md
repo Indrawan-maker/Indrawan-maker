@@ -20,6 +20,7 @@ I can’t dance (definitely not DJ either), and I’m not that good at speaking,
 
 -Ryan Singer
 </p>
+<p>building a business show the capaticy of the owner</p>
 
 <h2 align="center">profile visitors</h2>
 
