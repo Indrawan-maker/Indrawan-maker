@@ -1,9 +1,9 @@
-<img width="1252" height="812" alt="Screenshot 2026-09-27 002507" src="https://github.com/user-attachments/assets/f42ede63-0986-4954-b465-3bf0ca0c2060" />
+
 <table>
   <tr>
     <td><img src="rambutPink.jpg" alt="anime" width="200" max-width="100%"/></td>
     <td><img height="200" max-width="100%" alt="natori cult" src="https://github.com/user-attachments/assets/f42ede63-0986-4954-b465-3bf0ca0c2060" /></td>
-    <td><img src="yatoraa.gif" alt="anime" height="200" max-width="100%"/><//></td<td><img src="rambutPink.jpg" alt="anime" width="200" max-width="100%"/><//></td>
+    <td><img src="rambutPink.jpg" alt="anime" width="200" max-width="100%"/></td>
   </tr>
 </table>
 
