@@ -9,7 +9,7 @@
 
 
 <br>
-<h1>playing the game to play, not for win</h1>
+<h1>playing to play, not for win</h1>
 <h3>About Me</h3>
 <p>Hey there, I’m Muhammad Indrawan Ismail, a 5th-semester Information Systems student at Sultan Aji Muhammad Idris University Samarinda. I'm, a fullstack web developer but mostly work in backend.
 
