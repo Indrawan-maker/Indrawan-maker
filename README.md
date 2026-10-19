@@ -9,7 +9,7 @@
 
 
 <br>
-<h1>kenapa nyakk...</h1>
+<h1>edann penimpa handal</h1>
 <h3>About Me</h3>
 <p>Hey there, I’m Muhammad Indrawan Ismail, a 5th-semester Information Systems student at Sultan Aji Muhammad Idris University Samarinda. I'm, a fullstack web developer but mostly work in backend.
 
